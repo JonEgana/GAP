@@ -1,0 +1,2424 @@
+
+{ 
+    identifier: 'id',
+    label: 'title',
+    items: [
+        {
+            title: 'Diagramas',
+            top: true,
+            id: '_DIAGRAMS_ROOT_NODE_',
+            icon: 'icon570755445',
+            children: [
+                {_reference: '_0.wV.x0R.kQE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_1E.r_QB.kSE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '__J.u8.oR.kSE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_MO.n.bI.h.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.b.f1.k.o.h.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_MO.n.b.n.x.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.i.m68EB.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_-.p10Q.h.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_LH9XQB.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_U.b.l5.sC.nHE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_8N.v.w0B.kLE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_X.i2EQ.h.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_ML.sB8B.kRE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_1J.g.qU.h.kRE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.f1KYY.h.kQE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_K.vYU.oB.kUE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_MO.n.b.q.h.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_MO.n.b.xR.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_MO.n.b.zB.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.fRKC.gB.kHE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.o3T.n8R.kIE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_W3WDE.i.nKE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        },
+        {
+            title: 'Modelo de casos de uso::Desarrollo del estudio::Principal',
+            id: '_0.wV.x0R.kQE.e.eI19.z.x0.bN.yW.w',
+            object: '_0.wV.x0R.kQE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1527055999'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Desarrollo del estudio::Registrar visita::Casos de uso registrar visita',
+            id: '_1E.r_QB.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_1E.r_QB.kSE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Desarrollo del estudio::Registrar visita::Registrar visita::Registrar visita diagrama de actividad::Registrar visita diagrama de actividad',
+            id: '__J.u8.oR.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '__J.u8.oR.kSE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon839191166'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Modelo de casos de uso',
+            id: '_MO.n.bI.h.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_MO.n.bI.h.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1527055999'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Análisis y conclusiones::Principal',
+            id: '_.b.f1.k.o.h.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_.b.f1.k.o.h.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1527055999'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Versatile Actors::Versatile Actors',
+            id: '_MO.n.b.n.x.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_MO.n.b.n.x.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Análisis y conclusiones::Concluir el estudio::Casos de uso concluir estudio',
+            id: '_.i.m68EB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_.i.m68EB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Análisis y conclusiones::Concluir el estudio::Concluir estudio::Concluir Estudio diagrama de actividad::Concluir Estudio diagrama de actividad',
+            id: '_-.p10Q.h.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_-.p10Q.h.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon839191166'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Desarrollo del estudio::Cumplimentar formularios::Casos de uso Cumplimentar formularios',
+            id: '_LH9XQB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_LH9XQB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Desarrollo del estudio::Registrar incidencia::Casos de uso Registrar Incidencia',
+            id: '_U.b.l5.sC.nHE.e.eZ8MI2X.e.sF.b.w',
+            object: '_U.b.l5.sC.nHE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Inicio del estudio::Establecer Grupos::Casos de uso Establecer Grupos',
+            id: '_8N.v.w0B.kLE.e.eI19.z.x0.bN.yW.w',
+            object: '_8N.v.w0B.kLE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Inicio del estudio::Establecer Grupos::Establecer Grupos::Establecer Grupos diagrama de actividad::DiagramaDeActividad1',
+            id: '_X.i2EQ.h.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_X.i2EQ.h.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon839191166'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Desarrollo del estudio::Alta de pacientes/cuidadores::Casos de uso Alta de pacientes/cuidadores',
+            id: '_ML.sB8B.kRE.e.eI19.z.x0.bN.yW.w',
+            object: '_ML.sB8B.kRE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Desarrollo del estudio::Alta de pacientes/cuidadores::Alta de pacientes/cuidadores::Alta de pacientes/cuidadores diagrama de actividad::Alta de pacientes/cuidadores diagrama de actividad',
+            id: '_1J.g.qU.h.kRE.e.eI19.z.x0.bN.yW.w',
+            object: '_1J.g.qU.h.kRE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon839191166'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Inicio del estudio::Principal',
+            id: '_.f1KYY.h.kQE.e.eI19.z.x0.bN.yW.w',
+            object: '_.f1KYY.h.kQE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1527055999'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Desarrollo del estudio::Control de la evolucion del estudio::Casos de uso control de la evolución',
+            id: '_K.vYU.oB.kUE.e.eI19.z.x0.bN.yW.w',
+            object: '_K.vYU.oB.kUE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Overviews::Overviews',
+            id: '_MO.n.b.q.h.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_MO.n.b.q.h.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107215'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Overviews::Actors Overview',
+            id: '_MO.n.b.xR.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_MO.n.b.xR.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Overviews::Context Diagram',
+            id: '_MO.n.b.zB.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_MO.n.b.zB.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Inicio del estudio::Crear Estudio::Casos uso Crear Estudio',
+            id: '_.fRKC.gB.kHE.e.eI19.z.x0.bN.yW.w',
+            object: '_.fRKC.gB.kHE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Inicio del estudio::Crear Estudio::Crear Estudio::Crear Estudio diagrama de actividad::Crear Estudio diagrama de actividad',
+            id: '_.o3T.n8R.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_.o3T.n8R.kIE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon839191166'
+        },
+	
+        {
+            title: 'Modelo de casos de uso::Desarrollo del estudio::Realizar Notificacion::Casos de uso Gestionar Incidencias',
+            id: '_W3WDE.i.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_W3WDE.i.nKE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon1090849425'
+        },
+	
+        {
+            title: 'Modelos',
+            top: true,
+            id: '_MODELS_ROOT_NODE_',
+            icon: 'icon570755445',
+            children: [
+                {_reference: '_MO.n.bIB.kGE.e.eI19.z.x0.bN.yW.w' }
+            ]
+
+        },
+        {
+            title: 'Modelo de casos de uso',
+            id: '_MO.n.bIB.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_MO.n.bIB.kGE.e.eI19.z.x0.bN.yW.w-top-summary.html',
+            icon: 'icon570755445',
+            children: [
+                {_reference: '_MO.n.b.nR.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_MO.n.b.qB.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.f1KYYB.kQE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_0.wP.rMB.kQE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.b.f1.k.oB.kVE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Versatile Actors',
+            id: '_MO.n.b.nR.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_MO.n.b.nR.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581'
+        }
+		,
+        {
+            title: 'Overviews',
+            id: '_MO.n.b.qB.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_MO.n.b.qB.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_.h.lQ.o.kB.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.jKNNIB.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.k.qY.m.cB.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.mYUH4B.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.n8Z.w0B.kGE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_Y.aDLUB.kIE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.cVPO.gB.kIE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.d.fWRMB.kIE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_8.z8Y.sB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_A.s.c7UB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_BO.i7.wB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_B1U.n4B.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_C.a.qJ.kB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_C3IDIB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_DQ.b7AB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.u.w.p.q0B.kRE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_6.g.t.jEB.kSE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_F41.nAB.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_GX.sGMB.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_5.p.a.nUB.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_6L.hO0B.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_ZZ.w-EB.kXE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.cAU.w.oB.kXE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.dG5-MB.kXE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.tK.pSIB.kYE.e.e.s1IWN.q57E9.w' },
+                {_reference: '_0M.w.qAB.kYE.e.e.s1IWN.q57E9.w' },
+                {_reference: '_.h.oL.fUC.mRE.e.e6.hLOW0TZQ.oQ' },
+                {_reference: '_-EI7EC.m8E.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_SLI.v.cC.nGE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_T5W.k.wC.nGE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_U.qD.o8C.nGE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_-3.oB8C.nGE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_Q.qO2AC.nJE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_RE.f.wIC.nJE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_.c.c0.d0C.nKE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_.c-J.pQC.nKE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_-.a_M.cC.nKE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_E.nPTUC.nLE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_J.eA1AC.nLE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_K75IQC.nLE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_MO.yT.gC.nLE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_.uL9.f.cC.nSE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'Administrador',
+            id: '_.h.lQ.o.kB.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_.h.lQ.o.kB.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon84216324'
+        }
+		,
+        {
+            title: 'Administrativo',
+            id: '_.jKNNIB.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_.jKNNIB.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon84216324'
+        }
+		,
+        {
+            title: 'Médico',
+            id: '_.k.qY.m.cB.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_.k.qY.m.cB.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon84216324',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'Paciente/Cuidador',
+            id: '_.mYUH4B.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_.mYUH4B.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon84216324',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'Analista',
+            id: '_.n8Z.w0B.kGE.e.eI19.z.x0.bN.yW.w',
+            object: '_.n8Z.w0B.kGE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon84216324'
+        }
+		,
+        {
+            title: '',
+            id: '_Y.aDLUB.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_Y.aDLUB.kIE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_Y.aV.fMB.kIE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_Y.a.h.s.c.h.kIE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'diseñar Ensayo clínico',
+            id: '_Y.aV.fMB.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_Y.aDLUB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_Y.aV.fMB.kIE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_Y.a.h.s.c.h.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_Y.aDLUB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_Y.a.h.s.c.h.kIE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_.cVPO.gB.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_.cVPO.gB.kIE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_.cVPO.gR.kIE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.cVPO.hB.kIE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'crear Estudio',
+            id: '_.cVPO.gR.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_.cVPO.gB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_.cVPO.gR.kIE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrativo',
+            id: '_.cVPO.hB.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_.cVPO.gB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_.cVPO.hB.kIE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_.d.fWRMB.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_.d.fWRMB.kIE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_.d.fWRMR.kIE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.d.fWRNB.kIE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'obtener permisos',
+            id: '_.d.fWRMR.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_.d.fWRMB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_.d.fWRMR.kIE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrativo',
+            id: '_.d.fWRNB.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_.d.fWRMB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_.d.fWRNB.kIE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_8.z8Y.sB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_8.z8Y.sB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_8.z8Y.sR.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_80C.fUB.kME.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'establecer fechas de inicio/fin ',
+            id: '_8.z8Y.sR.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_8.z8Y.sB.kME.e.eI19.z.x0.bN.yW.w-content.html#_8.z8Y.sR.kME.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_80C.fUB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_8.z8Y.sB.kME.e.eI19.z.x0.bN.yW.w-content.html#_80C.fUB.kME.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_A.s.c7UB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_A.s.c7UB.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_A.s.jB8B.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_A.s.jB8.x.kNE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'obtener listados',
+            id: '_A.s.jB8B.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_A.s.c7UB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_A.s.jB8B.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_A.s.jB8.x.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_A.s.c7UB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_A.s.jB8.x.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_BO.i7.wB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_BO.i7.wB.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_BO.i7.wR.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_BO.i7.xB.kNE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'confeccionar listas',
+            id: '_BO.i7.wR.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_BO.i7.wB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_BO.i7.wR.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_BO.i7.xB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_BO.i7.wB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_BO.i7.xB.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_B1U.n4B.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_B1U.n4B.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_B1U.n4R.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_B1U.n5B.kNE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'establecer reuniones',
+            id: '_B1U.n4R.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_B1U.n4B.kNE.e.eI19.z.x0.bN.yW.w-content.html#_B1U.n4R.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_B1U.n5B.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_B1U.n4B.kNE.e.eI19.z.x0.bN.yW.w-content.html#_B1U.n5B.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_C.a.qJ.kB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_C.a.qJ.kB.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_C.a.wQMB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_C.a.wQM.x.kNE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'asignar grupos',
+            id: '_C.a.wQMB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_C.a.qJ.kB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_C.a.wQMB.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_C.a.wQM.x.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_C.a.qJ.kB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_C.a.wQM.x.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_C3IDIB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_C3IDIB.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_C3IDIR.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_C3OJ.wB.kNE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'solicitar participación',
+            id: '_C3IDIR.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_C3IDIB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_C3IDIR.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrativo',
+            id: '_C3OJ.wB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_C3IDIB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_C3OJ.wB.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_DQ.b7AB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_DQ.b7AB.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_DQ.b7AR.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_DQ.b7BB.kNE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'registrar participantes',
+            id: '_DQ.b7AR.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_DQ.b7AB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_DQ.b7AR.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrativo',
+            id: '_DQ.b7BB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_DQ.b7AB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_DQ.b7BB.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_.u.w.p.q0B.kRE.e.eI19.z.x0.bN.yW.w',
+            object: '_.u.w.p.q0B.kRE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_.u.w.p.q0R.kRE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.u.w.p.q1B.kRE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'alta de pacientes/cuidadores',
+            id: '_.u.w.p.q0R.kRE.e.eI19.z.x0.bN.yW.w',
+            object: '_.u.w.p.q0B.kRE.e.eI19.z.x0.bN.yW.w-content.html#_.u.w.p.q0R.kRE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'médico',
+            id: '_.u.w.p.q1B.kRE.e.eI19.z.x0.bN.yW.w',
+            object: '_.u.w.p.q0B.kRE.e.eI19.z.x0.bN.yW.w-content.html#_.u.w.p.q1B.kRE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_6.g.t.jEB.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_6.g.t.jEB.kSE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_6.g.t.jER.kSE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_6.g.z.p.sB.kSE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'registrar visita',
+            id: '_6.g.t.jER.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_6.g.t.jEB.kSE.e.eI19.z.x0.bN.yW.w-content.html#_6.g.t.jER.kSE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'médico',
+            id: '_6.g.z.p.sB.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_6.g.t.jEB.kSE.e.eI19.z.x0.bN.yW.w-content.html#_6.g.z.p.sB.kSE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_F41.nAB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_F41.nAB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_F41.nAR.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_F41.nBB.kVE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'cumplimentar formulario',
+            id: '_F41.nAR.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_F41.nAB.kVE.e.eI19.z.x0.bN.yW.w-content.html#_F41.nAR.kVE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'médico',
+            id: '_F41.nBB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_F41.nAB.kVE.e.eI19.z.x0.bN.yW.w-content.html#_F41.nBB.kVE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_GX.sGMB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_GX.sGMB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_GX.sGMR.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_GX.sGNB.kVE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'cumplimentar formulario',
+            id: '_GX.sGMR.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_GX.sGMB.kVE.e.eI19.z.x0.bN.yW.w-content.html#_GX.sGMR.kVE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'paciente/Cuidador',
+            id: '_GX.sGNB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_GX.sGMB.kVE.e.eI19.z.x0.bN.yW.w-content.html#_GX.sGNB.kVE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_5.p.a.nUB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_5.p.a.nUB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_5.p.a.nUR.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_5.p.a.nVB.kVE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'generación del informe',
+            id: '_5.p.a.nUR.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_5.p.a.nUB.kVE.e.eI19.z.x0.bN.yW.w-content.html#_5.p.a.nUR.kVE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'analista',
+            id: '_5.p.a.nVB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_5.p.a.nUB.kVE.e.eI19.z.x0.bN.yW.w-content.html#_5.p.a.nVB.kVE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_6L.hO0B.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_6L.hO0B.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_6L.hO0R.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_6L.hO1B.kVE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'visualización del informe',
+            id: '_6L.hO0R.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_6L.hO0B.kVE.e.eI19.z.x0.bN.yW.w-content.html#_6L.hO0R.kVE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_6L.hO1B.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_6L.hO0B.kVE.e.eI19.z.x0.bN.yW.w-content.html#_6L.hO1B.kVE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_ZZ.w-EB.kXE.e.eI19.z.x0.bN.yW.w',
+            object: '_ZZ.w-EB.kXE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_ZZ.w-ER.kXE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_ZZ.w-FB.kXE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'controlar evolución del estudio',
+            id: '_ZZ.w-ER.kXE.e.eI19.z.x0.bN.yW.w',
+            object: '_ZZ.w-EB.kXE.e.eI19.z.x0.bN.yW.w-content.html#_ZZ.w-ER.kXE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrativo',
+            id: '_ZZ.w-FB.kXE.e.eI19.z.x0.bN.yW.w',
+            object: '_ZZ.w-EB.kXE.e.eI19.z.x0.bN.yW.w-content.html#_ZZ.w-FB.kXE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_.cAU.w.oB.kXE.e.eI19.z.x0.bN.yW.w',
+            object: '_.cAU.w.oB.kXE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_.cAU.w.oR.kXE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.cAU.w.pB.kXE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'concluir estudio',
+            id: '_.cAU.w.oR.kXE.e.eI19.z.x0.bN.yW.w',
+            object: '_.cAU.w.oB.kXE.e.eI19.z.x0.bN.yW.w-content.html#_.cAU.w.oR.kXE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_.cAU.w.pB.kXE.e.eI19.z.x0.bN.yW.w',
+            object: '_.cAU.w.oB.kXE.e.eI19.z.x0.bN.yW.w-content.html#_.cAU.w.pB.kXE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_.dG5-MB.kXE.e.eI19.z.x0.bN.yW.w',
+            object: '_.dG5-MB.kXE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_.dG5-MR.kXE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.dG5-NB.kXE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'concluir estudio',
+            id: '_.dG5-MR.kXE.e.eI19.z.x0.bN.yW.w',
+            object: '_.dG5-MB.kXE.e.eI19.z.x0.bN.yW.w-content.html#_.dG5-MR.kXE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'analista',
+            id: '_.dG5-NB.kXE.e.eI19.z.x0.bN.yW.w',
+            object: '_.dG5-MB.kXE.e.eI19.z.x0.bN.yW.w-content.html#_.dG5-NB.kXE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'Sistema',
+            id: '_.tK.pSIB.kYE.e.e.s1IWN.q57E9.w',
+            object: '_.tK.pSIB.kYE.e.e.s1IWN.q57E9.w-content.html',
+            icon: 'icon84216324'
+        }
+		,
+        {
+            title: '',
+            id: '_0M.w.qAB.kYE.e.e.s1IWN.q57E9.w',
+            object: '_0M.w.qAB.kYE.e.e.s1IWN.q57E9.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_0M2.w.oB.kYE.e.e.s1IWN.q57E9.w' },
+                {_reference: '_0M2.w.o.x.kYE.e.e.s1IWN.q57E9.w' }
+            ]
+        }
+		,
+        {
+            title: 'confeccionar listas',
+            id: '_0M2.w.oB.kYE.e.e.s1IWN.q57E9.w',
+            object: '_0M.w.qAB.kYE.e.e.s1IWN.q57E9.w-content.html#_0M2.w.oB.kYE.e.e.s1IWN.q57E9.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'sistema',
+            id: '_0M2.w.o.x.kYE.e.e.s1IWN.q57E9.w',
+            object: '_0M.w.qAB.kYE.e.e.s1IWN.q57E9.w-content.html#_0M2.w.o.x.kYE.e.e.s1IWN.q57E9.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_.h.oL.fUC.mRE.e.e6.hLOW0TZQ.oQ',
+            object: '_.h.oL.fUC.mRE.e.e6.hLOW0TZQ.oQ-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_.h.oL.fUS.mRE.e.e6.hLOW0TZQ.oQ' },
+                {_reference: '_.h.oL.fVC.mRE.e.e6.hLOW0TZQ.oQ' }
+            ]
+        }
+		,
+        {
+            title: 'confirmar y asignar fechas',
+            id: '_.h.oL.fUS.mRE.e.e6.hLOW0TZQ.oQ',
+            object: '_.h.oL.fUC.mRE.e.e6.hLOW0TZQ.oQ-content.html#_.h.oL.fUS.mRE.e.e6.hLOW0TZQ.oQ',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_.h.oL.fVC.mRE.e.e6.hLOW0TZQ.oQ',
+            object: '_.h.oL.fUC.mRE.e.e6.hLOW0TZQ.oQ-content.html#_.h.oL.fVC.mRE.e.e6.hLOW0TZQ.oQ',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_-EI7EC.m8E.e.eZ8MI2X.e.sF.b.w',
+            object: '_-EI7EC.m8E.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_-E.bO8C.m8E.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_-E.hV.k.i.m8E.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'establecer Grupos',
+            id: '_-E.bO8C.m8E.e.eZ8MI2X.e.sF.b.w',
+            object: '_-EI7EC.m8E.e.eZ8MI2X.e.sF.b.w-content.html#_-E.bO8C.m8E.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_-E.hV.k.i.m8E.e.eZ8MI2X.e.sF.b.w',
+            object: '_-EI7EC.m8E.e.eZ8MI2X.e.sF.b.w-content.html#_-E.hV.k.i.m8E.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_SLI.v.cC.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_SLI.v.cC.nGE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_SLI.v.cS.nGE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_SLI.v.dC.nGE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'controlar Nivel participacion',
+            id: '_SLI.v.cS.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_SLI.v.cC.nGE.e.eZ8MI2X.e.sF.b.w-content.html#_SLI.v.cS.nGE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_SLI.v.dC.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_SLI.v.cC.nGE.e.eZ8MI2X.e.sF.b.w-content.html#_SLI.v.dC.nGE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_T5W.k.wC.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_T5W.k.wC.nGE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_T5W.k.wS.nGE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_T5W.k.xC.nGE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'controlar resultados',
+            id: '_T5W.k.wS.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_T5W.k.wC.nGE.e.eZ8MI2X.e.sF.b.w-content.html#_T5W.k.wS.nGE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_T5W.k.xC.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_T5W.k.wC.nGE.e.eZ8MI2X.e.sF.b.w-content.html#_T5W.k.xC.nGE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_U.qD.o8C.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_U.qD.o8C.nGE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_U.qD.o8S.nGE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_U.qD.o9C.nGE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'controlar rigor',
+            id: '_U.qD.o8S.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_U.qD.o8C.nGE.e.eZ8MI2X.e.sF.b.w-content.html#_U.qD.o8S.nGE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_U.qD.o9C.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_U.qD.o8C.nGE.e.eZ8MI2X.e.sF.b.w-content.html#_U.qD.o9C.nGE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_-3.oB8C.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_-3.oB8C.nGE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_-3.oB8S.nGE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_-3.oB9C.nGE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'controlar evolución del estudio',
+            id: '_-3.oB8S.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_-3.oB8C.nGE.e.eZ8MI2X.e.sF.b.w-content.html#_-3.oB8S.nGE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_-3.oB9C.nGE.e.eZ8MI2X.e.sF.b.w',
+            object: '_-3.oB8C.nGE.e.eZ8MI2X.e.sF.b.w-content.html#_-3.oB9C.nGE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_Q.qO2AC.nJE.e.eZ8MI2X.e.sF.b.w',
+            object: '_Q.qO2AC.nJE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_Q.qO2AS.nJE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_Q.qO2BC.nJE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'gestionar Incidencias',
+            id: '_Q.qO2AS.nJE.e.eZ8MI2X.e.sF.b.w',
+            object: '_Q.qO2AC.nJE.e.eZ8MI2X.e.sF.b.w-content.html#_Q.qO2AS.nJE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrativo',
+            id: '_Q.qO2BC.nJE.e.eZ8MI2X.e.sF.b.w',
+            object: '_Q.qO2AC.nJE.e.eZ8MI2X.e.sF.b.w-content.html#_Q.qO2BC.nJE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_RE.f.wIC.nJE.e.eZ8MI2X.e.sF.b.w',
+            object: '_RE.f.wIC.nJE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_RE.l2.wC.nJE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_RE.l2.w.y.nJE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'gestionar Incidencias',
+            id: '_RE.l2.wC.nJE.e.eZ8MI2X.e.sF.b.w',
+            object: '_RE.f.wIC.nJE.e.eZ8MI2X.e.sF.b.w-content.html#_RE.l2.wC.nJE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_RE.l2.w.y.nJE.e.eZ8MI2X.e.sF.b.w',
+            object: '_RE.f.wIC.nJE.e.eZ8MI2X.e.sF.b.w-content.html#_RE.l2.w.y.nJE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_.c.c0.d0C.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_.c.c0.d0C.nKE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_.c.c0.d0S.nKE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_.c.c0.d1C.nKE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'realizar Notificación',
+            id: '_.c.c0.d0S.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_.c.c0.d0C.nKE.e.eZ8MI2X.e.sF.b.w-content.html#_.c.c0.d0S.nKE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_.c.c0.d1C.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_.c.c0.d0C.nKE.e.eZ8MI2X.e.sF.b.w-content.html#_.c.c0.d1C.nKE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_.c-J.pQC.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_.c-J.pQC.nKE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_.c-J.pQS.nKE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_.c-J.pRC.nKE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'realizar Notificación',
+            id: '_.c-J.pQS.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_.c-J.pQC.nKE.e.eZ8MI2X.e.sF.b.w-content.html#_.c-J.pQS.nKE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrativo',
+            id: '_.c-J.pRC.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_.c-J.pQC.nKE.e.eZ8MI2X.e.sF.b.w-content.html#_.c-J.pRC.nKE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_-.a_M.cC.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_-.a_M.cC.nKE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_-.a_M.cS.nKE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_-.a_M.dC.nKE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'establecer Grupos',
+            id: '_-.a_M.cS.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_-.a_M.cC.nKE.e.eZ8MI2X.e.sF.b.w-content.html#_-.a_M.cS.nKE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrador',
+            id: '_-.a_M.dC.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_-.a_M.cC.nKE.e.eZ8MI2X.e.sF.b.w-content.html#_-.a_M.dC.nKE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_E.nPTUC.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_E.nPTUC.nLE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_E.nPTUS.nLE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_E.nVZ8C.nLE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'crear Estudio',
+            id: '_E.nPTUS.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_E.nPTUC.nLE.e.eZ8MI2X.e.sF.b.w-content.html#_E.nPTUS.nLE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrativo',
+            id: '_E.nVZ8C.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_E.nPTUC.nLE.e.eZ8MI2X.e.sF.b.w-content.html#_E.nVZ8C.nLE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_J.eA1AC.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_J.eA1AC.nLE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_J.eA1AS.nLE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_J.eA1BC.nLE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'establecer Grupos',
+            id: '_J.eA1AS.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_J.eA1AC.nLE.e.eZ8MI2X.e.sF.b.w-content.html#_J.eA1AS.nLE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'sistema',
+            id: '_J.eA1BC.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_J.eA1AC.nLE.e.eZ8MI2X.e.sF.b.w-content.html#_J.eA1BC.nLE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_K75IQC.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_K75IQC.nLE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_K75IQS.nLE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_K75IRC.nLE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'crear Estudio',
+            id: '_K75IQS.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_K75IQC.nLE.e.eZ8MI2X.e.sF.b.w-content.html#_K75IQS.nLE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrativo',
+            id: '_K75IRC.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_K75IQC.nLE.e.eZ8MI2X.e.sF.b.w-content.html#_K75IRC.nLE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: '',
+            id: '_MO.yT.gC.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_MO.yT.gC.nLE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon17107503',
+            children: [
+                {_reference: '_MO4.aIC.nLE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_MO4.aI.y.nLE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'controlar evolución del estudio',
+            id: '_MO4.aIC.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_MO.yT.gC.nLE.e.eZ8MI2X.e.sF.b.w-content.html#_MO4.aIC.nLE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'administrativo',
+            id: '_MO4.aI.y.nLE.e.eZ8MI2X.e.sF.b.w',
+            object: '_MO.yT.gC.nLE.e.eZ8MI2X.e.sF.b.w-content.html#_MO4.aI.y.nLE.e.eZ8MI2X.e.sF.b.w',
+            icon: 'icon772082202'
+        }
+		,
+        {
+            title: 'Sujeto',
+            id: '_.uL9.f.cC.nSE.e.eZ8MI2X.e.sF.b.w',
+            object: '_.uL9.f.cC.nSE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon84216324'
+        }
+		,
+        {
+            title: 'Inicio del estudio',
+            id: '_.f1KYYB.kQE.e.eI19.z.x0.bN.yW.w',
+            object: '_.f1KYYB.kQE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_Z3O.w.cB.kHE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.iO.l.gIB.kLE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Crear Estudio',
+            id: '_Z3O.w.cB.kHE.e.eI19.z.x0.bN.yW.w',
+            object: '_Z3O.w.cB.kHE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '__.kJB.sB.kHE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_C.w.z.yAB.kIE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_O.jCC4B.kIE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Crear Estudio',
+            id: '__.kJB.sB.kHE.e.eI19.z.x0.bN.yW.w',
+            object: '__.kJB.sB.kHE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945',
+            children: [
+                {_reference: '_.o07CUB.kIE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_RPJD0B.kIE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_R98D.gB.kIE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Crear Estudio diagrama de actividad',
+            id: '_.o07CUB.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_.o07CUB.kIE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon2063928164',
+            children: [
+                {_reference: '_6.c93EB.kIE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_M.g.a1.cB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_QAMH8B.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_YC.f.x.gB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.g6.xZ.wB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.m5.kT.cB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.qA4.p.sB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.t1.e8.sB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.wQ.f.m.kB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_M.g_.dMB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_QAMH-R.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_YC.l4KB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.z.c-J.oB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_01_LAB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_1V4.zEB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_1.uP.o.sB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_2S.b64B.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_D.fE.w.wB.kJE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_F.rR.i.kB.kJE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_6.c93EB.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_6.c93EB.kIE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon2063927903'
+        }
+		,
+        {
+            title: 'Alta de nuevo estudio',
+            id: '_M.g.a1.cB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_.o07CUB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_M.g.a1.cB.kJE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Introducir información descriptiva del estudio',
+            id: '_QAMH8B.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_.o07CUB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_QAMH8B.kJE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Establecimiento del requisito muestral del estudio',
+            id: '_YC.f.x.gB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_.o07CUB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_YC.f.x.gB.kJE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Subida del documento de solicitud del ensayo clínico',
+            id: '_.g6.xZ.wB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_.o07CUB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_.g6.xZ.wB.kJE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Obtención del documento de solicitud',
+            id: '_.m5.kT.cB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_.o07CUB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_.m5.kT.cB.kJE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Envio del documento a la autoridad pertinente',
+            id: '_.qA4.p.sB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_.o07CUB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_.qA4.p.sB.kJE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Registro de respuesta de la autoridad',
+            id: '_.t1.e8.sB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_.o07CUB.kIE.e.eI19.z.x0.bN.yW.w-content.html#_.t1.e8.sB.kJE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: '',
+            id: '_.wQ.f.m.kB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_.wQ.f.m.kB.kJE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon453315216'
+        }
+		,
+        {
+            title: '',
+            id: '_M.g_.dMB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_M.g_.dMB.kJE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_QAMH-R.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_QAMH-R.kJE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_YC.l4KB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_YC.l4KB.kJE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_.z.c-J.oB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_.z.c-J.oB.kJE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_01_LAB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_01_LAB.kJE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_1V4.zEB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_1V4.zEB.kJE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_1.uP.o.sB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_1.uP.o.sB.kJE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_2S.b64B.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_2S.b64B.kJE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: 'Administrador',
+            id: '_D.fE.w.wB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_D.fE.w.wB.kJE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon251988601'
+        }
+		,
+        {
+            title: 'Administrativo',
+            id: '_F.rR.i.kB.kJE.e.eI19.z.x0.bN.yW.w',
+            object: '_F.rR.i.kB.kJE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon251988601'
+        }
+		,
+        {
+            title: '',
+            id: '_RPJD0B.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_RPJD0B.kIE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: '',
+            id: '_R98D.gB.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_R98D.gB.kIE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: 'Diseñar Ensayo clínico',
+            id: '_C.w.z.yAB.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_C.w.z.yAB.kIE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Obtener permisos',
+            id: '_O.jCC4B.kIE.e.eI19.z.x0.bN.yW.w',
+            object: '_O.jCC4B.kIE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Establecer Grupos',
+            id: '_.iO.l.gIB.kLE.e.eI19.z.x0.bN.yW.w',
+            object: '_.iO.l.gIB.kLE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_-.aI.v4B.kLE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_BNZ.h.sB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_E.m.r.x.sB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_GS.m.g8B.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_I.i.oC0B.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_K.x.y.pEB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_Q.fZFEB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_V.y.cTEB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.e.p.v_UC.mRE.e.e6.hLOW0TZQ.oQ' }
+            ]
+        }
+		,
+        {
+            title: 'Establecer Grupos',
+            id: '_-.aI.v4B.kLE.e.eI19.z.x0.bN.yW.w',
+            object: '_-.aI.v4B.kLE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945',
+            children: [
+                {_reference: '_X.i2EQB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_Y.o.e.sEB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.d3.zQ.oB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.g67DYB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.hRXN.cB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.h.q.k-.sB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.iF5B.sB.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.i.g.o.c8B.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.jV.u48B.kME.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.j0.k.eYC.mRE.e.e6.hLOW0TZQ.oQ' }
+            ]
+        }
+		,
+        {
+            title: 'Establecer Grupos diagrama de actividad',
+            id: '_X.i2EQB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_X.i2EQB.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon2063928164',
+            children: [
+                {_reference: '_.hKMZAB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.jL.m3IB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.o9T.wAB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_Z2.qE.gB.kOE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.dRLD.kB.kOE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.o1.n-MB.kOE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_1Q_5.wB.kOE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_5.x.z.y.gB.kOE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_-Y.c.m.cB.kOE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_DHZB0B.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_G.b.m.k.kB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_L.oV.vMB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_OG4OMB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_O.mZ.b.wB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_Q.r690B.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_V.bJ.tEB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_WB.iX.oB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_W.s.z.iMB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.bSAL.sB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.t_XC.sB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.wO6D.cB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_0.v6J.cB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_4KI0.oB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_4.jKY.oB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_5D.c.bMB.kPE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.b.c.f2YB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.c.w7S.sB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.d3_BYB.kNE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_D.s.k.m8B.kZE.e.e.s1IWN.q57E9.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.hKMZAB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_.hKMZAB.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon2063927903'
+        }
+		,
+        {
+            title: 'Obtención y registro del listado de candidatos',
+            id: '_.jL.m3IB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_X.i2EQB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_.jL.m3IB.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Confección de las listas de intervencion/control',
+            id: '_.o9T.wAB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_X.i2EQB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_.o9T.wAB.kNE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Solicitar participación',
+            id: '_Z2.qE.gB.kOE.e.eI19.z.x0.bN.yW.w',
+            object: '_X.i2EQB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_Z2.qE.gB.kOE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: '¿Consentimiento informado recibido y acepta participar?',
+            id: '_.dRLD.kB.kOE.e.eI19.z.x0.bN.yW.w',
+            object: '_.dRLD.kB.kOE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1208289714'
+        }
+		,
+        {
+            title: 'Registrar participante',
+            id: '_.o1.n-MB.kOE.e.eI19.z.x0.bN.yW.w',
+            object: '_X.i2EQB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_.o1.n-MB.kOE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: '¿Tamaño de muestra alcanzado?',
+            id: '_1Q_5.wB.kOE.e.eI19.z.x0.bN.yW.w',
+            object: '_1Q_5.wB.kOE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon1208289714'
+        }
+		,
+        {
+            title: 'Notificación a los médicos en lista',
+            id: '_5.x.z.y.gB.kOE.e.eI19.z.x0.bN.yW.w',
+            object: '_X.i2EQB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_5.x.z.y.gB.kOE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Asignación definitiva de grupos',
+            id: '_-Y.c.m.cB.kOE.e.eI19.z.x0.bN.yW.w',
+            object: '_X.i2EQB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_-Y.c.m.cB.kOE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Se establecen las reuniones formativas para cada grupo',
+            id: '_DHZB0B.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_X.i2EQB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_DHZB0B.kPE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Se establecen fechas de inicio y fín del estudio',
+            id: '_G.b.m.k.kB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_X.i2EQB.kNE.e.eI19.z.x0.bN.yW.w-content.html#_G.b.m.k.kB.kPE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: '',
+            id: '_L.oV.vMB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_L.oV.vMB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon453315216'
+        }
+		,
+        {
+            title: '',
+            id: '_OG4OMB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_OG4OMB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_O.mZ.b.wB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_O.mZ.b.wB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_Q.r690B.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_Q.r690B.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_V.bJ.tEB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_V.bJ.tEB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_WB.iX.oB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_WB.iX.oB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: 'No',
+            id: '_W.s.z.iMB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_W.s.z.iMB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: 'Sí',
+            id: '_.bSAL.sB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_.bSAL.sB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_.t_XC.sB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_.t_XC.sB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: 'Sí',
+            id: '_.wO6D.cB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_.wO6D.cB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: 'No',
+            id: '_0.v6J.cB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_0.v6J.cB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_4KI0.oB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_4KI0.oB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_4.jKY.oB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_4.jKY.oB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_5D.c.bMB.kPE.e.eI19.z.x0.bN.yW.w',
+            object: '_5D.c.bMB.kPE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: 'Administrador',
+            id: '_.b.c.f2YB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_.b.c.f2YB.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon251988601'
+        }
+		,
+        {
+            title: 'Sistema',
+            id: '_.c.w7S.sB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_.c.w7S.sB.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon251988601'
+        }
+		,
+        {
+            title: 'Administrativo',
+            id: '_.d3_BYB.kNE.e.eI19.z.x0.bN.yW.w',
+            object: '_.d3_BYB.kNE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon251988601'
+        }
+		,
+        {
+            title: 'Administrador',
+            id: '_D.s.k.m8B.kZE.e.e.s1IWN.q57E9.w',
+            object: '_D.s.k.m8B.kZE.e.e.s1IWN.q57E9.w-content.html',
+            icon: 'icon251988601'
+        }
+		,
+        {
+            title: '',
+            id: '_Y.o.e.sEB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_Y.o.e.sEB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: '',
+            id: '_.d3.zQ.oB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_.d3.zQ.oB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: '',
+            id: '_.g67DYB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_.g67DYB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: '',
+            id: '_.hRXN.cB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_.hRXN.cB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: '',
+            id: '_.h.q.k-.sB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_.h.q.k-.sB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: '',
+            id: '_.iF5B.sB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_.iF5B.sB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: '',
+            id: '_.i.g.o.c8B.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_.i.g.o.c8B.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: '',
+            id: '_.jV.u48B.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_.jV.u48B.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: '',
+            id: '_.j0.k.eYC.mRE.e.e6.hLOW0TZQ.oQ',
+            object: '_.j0.k.eYC.mRE.e.e6.hLOW0TZQ.oQ-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: 'Obtener listados',
+            id: '_BNZ.h.sB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_BNZ.h.sB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Confeccionar listas',
+            id: '_E.m.r.x.sB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_E.m.r.x.sB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Solicitar participación',
+            id: '_GS.m.g8B.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_GS.m.g8B.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Registrar participantes',
+            id: '_I.i.oC0B.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_I.i.oC0B.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Asignar grupos',
+            id: '_K.x.y.pEB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_K.x.y.pEB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Establecer reuniones',
+            id: '_Q.fZFEB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_Q.fZFEB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Establecer fechas de inicio/fin ',
+            id: '_V.y.cTEB.kME.e.eI19.z.x0.bN.yW.w',
+            object: '_V.y.cTEB.kME.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Confirmar y asignar fechas',
+            id: '_.e.p.v_UC.mRE.e.e6.hLOW0TZQ.oQ',
+            object: '_.e.p.v_UC.mRE.e.e6.hLOW0TZQ.oQ-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Desarrollo del estudio',
+            id: '_0.wP.rMB.kQE.e.eI19.z.x0.bN.yW.w',
+            object: '_0.wP.rMB.kQE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_DO.j.u4B.kRE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.o.r.y.v8B.kSE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_-5.i.vEB.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '__9HP.cB.kUE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_R.g.mIMC.nHE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_W3WDEC.nKE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'Alta de pacientes/cuidadores',
+            id: '_DO.j.u4B.kRE.e.eI19.z.x0.bN.yW.w',
+            object: '_DO.j.u4B.kRE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_.i0.s2MB.kRE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Alta de pacientes/cuidadores',
+            id: '_.i0.s2MB.kRE.e.eI19.z.x0.bN.yW.w',
+            object: '_.i0.s2MB.kRE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945',
+            children: [
+                {_reference: '_1J.g.qUB.kRE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Alta de pacientes/cuidadores diagrama de actividad',
+            id: '_1J.g.qUB.kRE.e.eI19.z.x0.bN.yW.w',
+            object: '_1J.g.qUB.kRE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon2063928164',
+            children: [
+                {_reference: '_6W.iI0B.kRE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_H.jF.p.sB.kSE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_LI.r3YB.kSE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_Q2.q.t4B.kSE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_R1.m.bUB.kSE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_SU.c6.gB.kSE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_S2Q.nEB.kSE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_46.j6EB.kRE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_6W.iI0B.kRE.e.eI19.z.x0.bN.yW.w',
+            object: '_6W.iI0B.kRE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon2063927903'
+        }
+		,
+        {
+            title: 'Alta del usuario en el sistema',
+            id: '_H.jF.p.sB.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_1J.g.qUB.kRE.e.eI19.z.x0.bN.yW.w-content.html#_H.jF.p.sB.kSE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Subida del documento de consentimiento informado',
+            id: '_LI.r3YB.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_1J.g.qUB.kRE.e.eI19.z.x0.bN.yW.w-content.html#_LI.r3YB.kSE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: '',
+            id: '_Q2.q.t4B.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_Q2.q.t4B.kSE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon453315216'
+        }
+		,
+        {
+            title: '',
+            id: '_R1.m.bUB.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_R1.m.bUB.kSE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_SU.c6.gB.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_SU.c6.gB.kSE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_S2Q.nEB.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_S2Q.nEB.kSE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: 'Médico',
+            id: '_46.j6EB.kRE.e.eI19.z.x0.bN.yW.w',
+            object: '_46.j6EB.kRE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon251988601'
+        }
+		,
+        {
+            title: 'Registrar visita',
+            id: '_.o.r.y.v8B.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_.o.r.y.v8B.kSE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_4.u3K8B.kSE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Registrar visita',
+            id: '_4.u3K8B.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '_4.u3K8B.kSE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945',
+            children: [
+                {_reference: '__J.o2AB.kSE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Registrar visita diagrama de actividad',
+            id: '__J.o2AB.kSE.e.eI19.z.x0.bN.yW.w',
+            object: '__J.o2AB.kSE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon2063928164',
+            children: [
+                {_reference: '_F.oO.qEB.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_LTJ.l.gB.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_X3N.jAB.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.k.wF58B.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.mR.a.i.wB.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.xRA.c0B.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.p.m3.b.oB.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.q.e.v.e0B.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.u1.t.fEB.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.w.f6XEB.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.y26D.oB.kTE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_F3-9UB.kTE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_F.oO.qEB.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '_F.oO.qEB.kTE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon2063927903'
+        }
+		,
+        {
+            title: 'Selección del paciente que realiza la visita',
+            id: '_LTJ.l.gB.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '__J.o2AB.kSE.e.eI19.z.x0.bN.yW.w-content.html#_LTJ.l.gB.kTE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Registrar diagnóstico',
+            id: '_X3N.jAB.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '__J.o2AB.kSE.e.eI19.z.x0.bN.yW.w-content.html#_X3N.jAB.kTE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Registrar Tratamiento',
+            id: '_.k.wF58B.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '__J.o2AB.kSE.e.eI19.z.x0.bN.yW.w-content.html#_.k.wF58B.kTE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Registrar observaciones',
+            id: '_.mR.a.i.wB.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '__J.o2AB.kSE.e.eI19.z.x0.bN.yW.w-content.html#_.mR.a.i.wB.kTE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: '',
+            id: '_.xRA.c0B.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '_.xRA.c0B.kTE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon453315216'
+        }
+		,
+        {
+            title: '',
+            id: '_.p.m3.b.oB.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '_.p.m3.b.oB.kTE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_.q.e.v.e0B.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '_.q.e.v.e0B.kTE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_.u1.t.fEB.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '_.u1.t.fEB.kTE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_.w.f6XEB.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '_.w.f6XEB.kTE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_.y26D.oB.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '_.y26D.oB.kTE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: 'Médico',
+            id: '_F3-9UB.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '_F3-9UB.kTE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon251988601'
+        }
+		,
+        {
+            title: 'Control de la evolucion del estudio',
+            id: '_-5.i.vEB.kTE.e.eI19.z.x0.bN.yW.w',
+            object: '_-5.i.vEB.kTE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_QA5R.kB.kUE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_2_.b.a0C.m_E.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_D.sSH8C.nAE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_V.p.a.b4C.nAE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_N.wGK.sC.nKE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'Controlar evolución del estudio',
+            id: '_QA5R.kB.kUE.e.eI19.z.x0.bN.yW.w',
+            object: '_QA5R.kB.kUE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945',
+            children: [
+                {_reference: '_.g.o.c.x.wS.m_E.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_.iB7.tMC.m_E.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_Q8SZ4C.nKE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'Puntodeextensión1',
+            id: '_.g.o.c.x.wS.m_E.e.eZ8MI2X.e.sF.b.w',
+            object: '_.g.o.c.x.wS.m_E.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon1191512708'
+        }
+		,
+        {
+            title: 'Puntodeextensión2',
+            id: '_.iB7.tMC.m_E.e.eZ8MI2X.e.sF.b.w',
+            object: '_.iB7.tMC.m_E.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon1191512708'
+        }
+		,
+        {
+            title: 'Puntodeextensión3',
+            id: '_Q8SZ4C.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_Q8SZ4C.nKE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon1191512708'
+        }
+		,
+        {
+            title: 'Controlar Nivel participacion',
+            id: '_2_.b.a0C.m_E.e.eZ8MI2X.e.sF.b.w',
+            object: '_2_.b.a0C.m_E.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon570755945',
+            children: [
+                {_reference: '_.f8.g.cUS.nAE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.f8.g.cUS.nAE.e.eZ8MI2X.e.sF.b.w',
+            object: '_.f8.g.cUS.nAE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon805636516'
+        }
+		,
+        {
+            title: 'Controlar resultados',
+            id: '_D.sSH8C.nAE.e.eZ8MI2X.e.sF.b.w',
+            object: '_D.sSH8C.nAE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon570755945',
+            children: [
+                {_reference: '_.fU30.kS.nAE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.fU30.kS.nAE.e.eZ8MI2X.e.sF.b.w',
+            object: '_.fU30.kS.nAE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon805636516'
+        }
+		,
+        {
+            title: 'Controlar rigor',
+            id: '_V.p.a.b4C.nAE.e.eZ8MI2X.e.sF.b.w',
+            object: '_V.p.a.b4C.nAE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon570755945',
+            children: [
+                {_reference: '_.c.zFNQC.nAE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.c.zFNQC.nAE.e.eZ8MI2X.e.sF.b.w',
+            object: '_.c.zFNQC.nAE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon805636516'
+        }
+		,
+        {
+            title: 'Controlar incidencias',
+            id: '_N.wGK.sC.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_N.wGK.sC.nKE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon570755945',
+            children: [
+                {_reference: '_Q8SZ4S.nKE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_Q8SZ4S.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_Q8SZ4S.nKE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon805636516'
+        }
+		,
+        {
+            title: 'Cumplimentar formularios',
+            id: '__9HP.cB.kUE.e.eI19.z.x0.bN.yW.w',
+            object: '__9HP.cB.kUE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_EP.r34B.kVE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Cumplimentar formulario',
+            id: '_EP.r34B.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_EP.r34B.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Registrar incidencia',
+            id: '_R.g.mIMC.nHE.e.eZ8MI2X.e.sF.b.w',
+            object: '_R.g.mIMC.nHE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_U.b.l6.j.i.nHE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'Registrar Incidencia',
+            id: '_U.b.l6.j.i.nHE.e.eZ8MI2X.e.sF.b.w',
+            object: '_U.b.l6.j.i.nHE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon570755945',
+            children: [
+                {_reference: '_U.b.l6.k.i.nHE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_U.b.l6.k.y.nHE.e.eZ8MI2X.e.sF.b.w' },
+                {_reference: '_80N4YC.nJE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'Puntodeextensión1',
+            id: '_U.b.l6.k.i.nHE.e.eZ8MI2X.e.sF.b.w',
+            object: '_U.b.l6.k.i.nHE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon1191512708'
+        }
+		,
+        {
+            title: 'Puntodeextensión2',
+            id: '_U.b.l6.k.y.nHE.e.eZ8MI2X.e.sF.b.w',
+            object: '_U.b.l6.k.y.nHE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon1191512708'
+        }
+		,
+        {
+            title: 'Puntodeextensión3',
+            id: '_80N4YC.nJE.e.eZ8MI2X.e.sF.b.w',
+            object: '_80N4YC.nJE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon1191512708'
+        }
+		,
+        {
+            title: 'Realizar Notificacion',
+            id: '_W3WDEC.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_W3WDEC.nKE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_W3WD.iS.nKE.e.eZ8MI2X.e.sF.b.w' }
+            ]
+        }
+		,
+        {
+            title: 'Realizar Notificación',
+            id: '_W3WD.iS.nKE.e.eZ8MI2X.e.sF.b.w',
+            object: '_W3WD.iS.nKE.e.eZ8MI2X.e.sF.b.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Análisis y conclusiones',
+            id: '_.b.f1.k.oB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_.b.f1.k.oB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_.f.vQ.y.cB.kVE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Concluir el estudio',
+            id: '_.f.vQ.y.cB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_.f.vQ.y.cB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon201656581',
+            children: [
+                {_reference: '_.lW.d.r.gB.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_.wS.m.o8B.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_070P.wB.kVE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Concluir estudio',
+            id: '_.lW.d.r.gB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_.lW.d.r.gB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945',
+            children: [
+                {_reference: '_-.p10QB.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_0V.zY.oB.kVE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_4.eKVIB.kVE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: 'Concluir Estudio diagrama de actividad',
+            id: '_-.p10QB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_-.p10QB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon2063928164',
+            children: [
+                {_reference: '_DC6GQB.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_D.wFVUB.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_HTSWUB.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_J.kQ6.cB.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_MCC.k.cB.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_T.h.w.eUB.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_VJ.w98B.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_V.s.t6AB.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_WI.s.rYB.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_W.g9.aYB.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_W7.g.oYB.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_ND1_.sB.kWE.e.eI19.z.x0.bN.yW.w' },
+                {_reference: '_ODKH.oB.kWE.e.eI19.z.x0.bN.yW.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_DC6GQB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_DC6GQB.kWE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon2063927903'
+        }
+		,
+        {
+            title: 'Exportar datos generados en el estudio',
+            id: '_D.wFVUB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_-.p10QB.kVE.e.eI19.z.x0.bN.yW.w-content.html#_D.wFVUB.kWE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Subida del estudio estadistico',
+            id: '_HTSWUB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_-.p10QB.kVE.e.eI19.z.x0.bN.yW.w-content.html#_HTSWUB.kWE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: 'Visualización de los datos',
+            id: '_J.kQ6.cB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_-.p10QB.kVE.e.eI19.z.x0.bN.yW.w-content.html#_J.kQ6.cB.kWE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: '',
+            id: '_MCC.k.cB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_MCC.k.cB.kWE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon453315216'
+        }
+		,
+        {
+            title: 'Finalizar el estudio',
+            id: '_T.h.w.eUB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_-.p10QB.kVE.e.eI19.z.x0.bN.yW.w-content.html#_T.h.w.eUB.kWE.e.eI19.z.x0.bN.yW.w',
+            icon: 'icon923077214'
+        }
+		,
+        {
+            title: '',
+            id: '_VJ.w98B.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_VJ.w98B.kWE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_V.s.t6AB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_V.s.t6AB.kWE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_WI.s.rYB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_WI.s.rYB.kWE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_W.g9.aYB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_W.g9.aYB.kWE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: '',
+            id: '_W7.g.oYB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_W7.g.oYB.kWE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon436538021'
+        }
+		,
+        {
+            title: 'Analista',
+            id: '_ND1_.sB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_ND1_.sB.kWE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon251988601'
+        }
+		,
+        {
+            title: 'Administrador',
+            id: '_ODKH.oB.kWE.e.eI19.z.x0.bN.yW.w',
+            object: '_ODKH.oB.kWE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon251988601'
+        }
+		,
+        {
+            title: '',
+            id: '_0V.zY.oB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_0V.zY.oB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: '',
+            id: '_4.eKVIB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_4.eKVIB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon470092647'
+        }
+		,
+        {
+            title: 'Generación del informe',
+            id: '_.wS.m.o8B.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_.wS.m.o8B.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		,
+        {
+            title: 'Visualización del informe',
+            id: '_070P.wB.kVE.e.eI19.z.x0.bN.yW.w',
+            object: '_070P.wB.kVE.e.eI19.z.x0.bN.yW.w-content.html',
+            icon: 'icon570755945'
+        }
+		
+    ]
+}
+
+		

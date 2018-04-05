@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>EvDiscover</title>
+
+  <!-- Bootstrap -->
+  <link href="scripts/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="scripts/jstree/dist/themes/default/style.min.css" />
+  <script src="scripts/jquery-3.2.1.min.js"></script>
+  <script src="scripts/jstree/dist/jstree.min.js"></script>
+  <script src="scripts/estructura.js"></script>
+  <style>
+  </style>
+  <script>
+  $(document).ready(function(){
+
+    $('#left_menu')
+    .bind("select_node.jstree", function (e, data) {
+
+                var href = data.node.a_attr.href
+
+                if(href!="#" && data.node.a_attr.target!="_blank"){
+                  var f = document.getElementById("myFrame");
+                  f.src = href;
+                }
+                else if ( data.node.a_attr.target=="_blank") {
+                  window.open(href, '_blank');
+                }
+            })
+    // create the instance
+    .jstree({ 'core' : {
+    'data' : data
+  },
+  'types': {
+               "folder": {
+                   "icon": "jstree-icon jstree-folder"
+               },
+               "file": {
+                   "icon": "jstree-icon jstree-file"
+               }
+
+           },
+           "plugins": ["types"]
+ });
+
+  });
+  </script>
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">EvDiscover</a>
+        </div>
+
+      </div>
+    </nav>
+    <br/><br/>    <br/><br/>
+
+  <div class="container-fluid">
+    <div class="row" heigth="100%">
+        <div id="left_menu" class="col-md-3 no-float navigation">
+
+        </div>
+        <div class="col-md-9">
+          <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="" id="myFrame" name="frame"></iframe>
+        </div>
+        </div>
+    </div>
+</div>
+
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="scripts/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+</html>
