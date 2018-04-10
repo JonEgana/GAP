@@ -1,0 +1,6 @@
+VMware Workstation
+GanttProject
+StarUML
+Github
+Atom
+Node.js
